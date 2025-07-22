@@ -2,10 +2,10 @@
 
 **Hardware Verification Engineer | Digital Design Specialist**
 
-4th-year Electrical and Computer Engineering student at Ben-Gurion University, specializing in hardware verification and digital design. Passionate about CPU architecture, FPGA implementation, and verification methodologies.
+Electrical and Computer Engineering, specializing in hardware verification and digital design. Passionate about CPU architecture, FPGA implementation, and verification methodologies.
 
 ## About Me
-- 🎓 **Graduating 2025** - ECE at Ben-Gurion University (GPA: 84/100)
+- 🎓 **Graduating 2025** - ECE at Ben-Gurion University 
 - 🔬 **Specializing in** hardware verification and digital design
 - 🏗️ **Current focus** on SystemVerilog UVM methodology and RTL design
 - 🚀 **Recent project** MIPS-based MCU with FPGA implementation
