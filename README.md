@@ -1,6 +1,6 @@
 # Hi, I'm Nachman Mimoun
 
-**Hardware Verification Engineer | Digital Design Specialist**
+**Electrical and Computer Engineer | Digital Design Specialist**
 
 Electrical and Computer Engineering, specializing in hardware verification and digital design. Passionate about CPU architecture, FPGA implementation, and verification methodologies.
 
